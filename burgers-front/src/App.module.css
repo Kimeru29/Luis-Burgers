@@ -1,0 +1,15 @@
+.rojo{
+    color: #FF0000;
+}
+
+.header{
+    background-color: #fff;
+    height: 12vh;
+    width: 100vw;
+}
+
+.logo{
+    position: absolute;
+    left: 1rem;
+    top: 1.2vh;
+}
