@@ -5,10 +5,10 @@ import BurgerPresentation from "../BurgerPresentation";
 class BurgerBuiler extends Component {
     render() {
         return (
-            <div>
-                <h1 className={styles.rojo}>Burger Builder</h1>
-                <BurgerBuiler />
-            </div>
+            <React.Fragment>
+                <BurgerPresentation />
+                <h1>Placeholder de los controles</h1>
+            </React.Fragment>
         );
     }
 }
